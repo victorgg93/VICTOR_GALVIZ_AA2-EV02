@@ -1,0 +1,33 @@
+/* Style.css */
+
+.header {
+    background-color: #001F3F;
+    padding: 55px;
+  }
+  
+  .header h1 {
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+  }
+
+  /* Style.css */
+
+.footer {
+    background-color: #001F3F;
+    color: #ffffff;
+    padding: 20px; /* relleno */
+    text-align: center;
+  }
+  
+  .footer a {
+    color: #ffffff; /* Color de los enlaces */
+    text-decoration: none; /* Elimina el subrayado de los enlaces  */
+    margin-right: 10px; /* Espacio entre los enlaces  */
+  }
+  
+  .footer a:hover {
+    text-decoration: underline; /* Añade subrayado al pasar el ratón sobre los enlaces  */
+  }
+  
+  
